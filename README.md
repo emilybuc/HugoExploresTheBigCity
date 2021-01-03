@@ -1,2 +1,2 @@
-# HugoGoesToTheBigCity
+# HugoExploresTheBigCity
 A FlappyBird Inspired Game
